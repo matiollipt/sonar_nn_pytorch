@@ -1,0 +1,8 @@
+**Steps**
+1. Loading training data
+2. Making data available to PyTorch
+3. Designing Feedforward Neural Network (FNN) models
+4. Defining the FNN training loop
+5. Training and evaluating model's performance with k-fold cross-validation
+6. Running the model in inference mode
+7. Creating a receiver operating characteristics (ROC) curve for binary classification
